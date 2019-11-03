@@ -1,6 +1,7 @@
 html {
   background-color: #fff;
   font-family: Georgia, serif;
+  color: #2f2d13;
 }
 
 header {
@@ -24,12 +25,12 @@ h1 {
   list-style-type: none;
   display: inline-block;
   padding: .75em;
-  background-color: #2f2d13;
+  background-color: #b2a212;
   border-radius: 4px;
   margin: .3em;
 }
 
-.nav li:hover {
+.nav li a:hover {
   background-color: #cc1465;
 }
 
