@@ -2,6 +2,11 @@ html {
   background-color: #fff;
   font-family: Georgia, serif;
   color: #2f2d13;
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
 }
 
 header {
@@ -11,7 +16,7 @@ header {
 
 h1 {
   line-height: 1.5;
-  font-family: Sigmar One, sans-serif;
+  font-family: 'Sigmar One', sans-serif;
   font-size: 3rem;
   color: #cc1465;
   text-align: center;
@@ -47,6 +52,6 @@ footer {
 
 h2 {
   font-size: 1.875rem;
-  font-family: Sigmar One, sans-serif;
+  font-family: 'Sigmar One', sans-serif;
   color: #cc1465;
 }
