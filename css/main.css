@@ -6,7 +6,7 @@ body {
   background-color: #fff;
   font-family: Georgia, serif;
   color: #2f2d13;
-  margin: 0 auto;
+  margin: .3em;
 }
 
 *, *::before, *::after {
@@ -70,5 +70,5 @@ img {
   margin: .3em;
   padding-top: .5em;
   padding-bottom: .3em;
-  width: auto;
+  width: 0;
 }
