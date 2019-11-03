@@ -32,3 +32,14 @@ h1 {
 .nav li:hover {
   background-color: #cc1465;
 }
+
+.nav .current {
+  background-color: #b20953;
+}
+
+footer {
+  text-align: center;
+  display: block;
+  background-color: #ffe500;
+  padding: .5em;
+}
