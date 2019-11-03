@@ -43,3 +43,9 @@ footer {
   background-color: #ffe500;
   padding: .5em;
 }
+
+h2 {
+  font-size: 1.875rem;
+  font-family: Sigmar One, sans-serif;
+  color: #cc1465;
+}
