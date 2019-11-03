@@ -1,0 +1,27 @@
+html{
+  background-color: #fff;
+}
+
+header{
+  display: block;
+  background-color: #ffe500;
+}
+
+h1{
+  line-height: 1.5;
+  font-family: Sigmar One, sans-serif;
+  font-size: 3rem;
+  color: #cc1465;
+  text-align: center;
+  margin: auto;
+}
+
+.nav li{
+  color: #fff;
+  list-style-type: none;
+  display: inline-block;
+  padding: .75em;
+  background-color: #cc1465;
+  border-radius: 4px;
+  margin: .3em;
+}
