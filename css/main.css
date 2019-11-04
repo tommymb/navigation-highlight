@@ -6,7 +6,7 @@ body {
   background-color: #fff;
   font-family: Georgia, serif;
   color: #2f2d13;
-  margin: auto;
+  margin: 0;
 }
 
 *, *::before, *::after {
