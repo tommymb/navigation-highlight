@@ -27,12 +27,11 @@ h1 {
   margin: auto;
 }
 
-nav {
-  display: block;
-  text-align: center;
+.nav li {
+  display: inline-block;
 }
 
-.nav li {
+.nav li a {
   color: #fff;
   line-height: 1.5rem;
   font-size: 1.125rem;
