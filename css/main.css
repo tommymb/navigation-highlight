@@ -33,11 +33,10 @@ h1 {
 
 .nav li a {
   color: #fff;
-  line-height: 1.5rem;
   font-size: 1.125rem;
   list-style-type: none;
   display: inline-block;
-  padding: .3em;
+  padding: .2em .5em .3em;
   background-color: #b2a212;
   border-radius: 4px;
   margin-bottom: .3em;
@@ -56,7 +55,10 @@ footer {
   text-align: center;
   display: block;
   background-color: #ffe500;
-  padding: .3em;
+  padding: .75em;
+}
+
+footer small {
   font-size: .75em;
 }
 
@@ -77,10 +79,6 @@ img {
   padding-top: .5em;
   padding-bottom: .3em;
   width: 100%;
-}
-
-.p {
-  font-size: 1.125rem;
 }
 
 .nav {
